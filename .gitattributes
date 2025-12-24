@@ -1,0 +1,2 @@
+Dataset/ratings_Beauty.csv filter=lfs diff=lfs merge=lfs -text
+Models/funk_svd_model.pkl filter=lfs diff=lfs merge=lfs -text
